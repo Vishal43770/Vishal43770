@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishal43770
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in ... Learn new thing 
 - 🌱 I’m currently learning ...data science as students
 - 💞️ I’m looking to collaborate on ...ai trading bot,data analytics 
